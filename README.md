@@ -4,7 +4,7 @@
 
 此設計規範將以微軟原生的 Code-Style 為主。
 
-## [命名 Naming](/Coding-Standard/Naming)
+## [命名 Naming](/Coding-Standard/Naming.md)
 
 - ### 大小寫格式 Casing
 - ### 類型對照表
@@ -13,20 +13,20 @@
 - ### 變數命名
 - ### 方法參數及變數
 
-## [常用寫法規則](/Coding-Standard/Common)
+## [常用寫法規則](/Coding-Standard/Common.md)
 - ### 原生類型
 - ### `var` 使用時機
 - ### `using` 的撰寫方式
 - ### `??`運算子 使用時機
 - ### `?.` 或 `?[]` 運算子 使用時機
 
-## [註解](/Coding-Standard/Annotation)
+## [註解](/Coding-Standard/Annotation.md)
 
 - ### Value Object(VO) 的註解
 - ### Method 註解
 - ### 工作清單 TODO, UNDONE, HACK
 
-## [專案檔案](/Coding-Standard/ProjectFile)
+## [專案檔案](/Coding-Standard/ProjectFile.md)
 
 - ### Domain 資料夾結構
 - ### 基礎程式
